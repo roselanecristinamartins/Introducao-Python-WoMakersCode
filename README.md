@@ -7,7 +7,7 @@ O Python é uma das linguagens mais utilizadas no mundo da tecnologia e um dos m
 
 O trilha é introdutória, prática e acessível, com foco nos fundamentos da lógica de programação e da linguagem Python. Para quem já possui experiência em outras linguagens, o curso atua como uma excelente ferramenta de atualização, permitindo relembrar algoritmos consolidados e aplicar rapidamente a nova sintaxe em soluções modernas.
 
-## Conteúdo 
+## 📚 Conteúdo 
 ### Conceitos Básicos de Python
 * Preparando o ambiente de trabalho (VS Code)
 * Entrada e saida de dados (input, print)
@@ -31,5 +31,17 @@ O trilha é introdutória, prática e acessível, com foco nos fundamentos da l�
 * Dicionários
 
 ### Funções e Manipulação de Arquivos
+* Trabalhando com funções
+* Criando arquivos
+* Acessando e lendo arquivos
+* Atualizando arquivos
+* Deletando arquivos
+* Tratamento de erros
 
-
+## 🗂️ Estrutura do Repositório
+📦 introducao-python-womakerscode
+ ┣ 📁 Construindo seu primeiro sistema de cadastro
+ ┣ 📁 Dominando repetições com while
+ ┣ 📁 Sistema de cadastro e Análise de Dados
+ ┣ 📁 Memoria viva
+ ┗ 📄 README.md
