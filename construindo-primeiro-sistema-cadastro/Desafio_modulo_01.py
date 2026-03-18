@@ -55,6 +55,5 @@ print('A altura é maior ou igual a 1.60m? ', altura_minima) # Imprime o resulta
 
 
 print('********************* Fase 5 ********************')
-# Fase 5
-# Inserir comentários que documentem o codigo.
+# Fase 5 : Inserir comentários que documentem o codigo.
 print('Inserido comentários documentando o codigo')
